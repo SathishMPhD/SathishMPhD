@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @SathishMPhD
+- 👀 I’m interested in Material Science and Nanotechnology...
+- 🌱 I’m currently doing my Ph.D...
+- 💞️ I’m learning Machinelearning & Deeplearning...
+
+<!---
+SathishMPhD/SathishMPhD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
